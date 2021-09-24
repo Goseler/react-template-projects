@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Getting Started with React-TS Template
 
 Before using template => "npm install"
